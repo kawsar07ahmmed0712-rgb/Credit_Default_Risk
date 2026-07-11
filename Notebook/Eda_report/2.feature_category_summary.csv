@@ -1,0 +1,16 @@
+semantic_category,feature_family,dtype_semantic,feature_count
+binary_flag,flag,binary,170
+categorical_binary,categorical,categorical,4
+categorical_nominal,categorical,categorical,10
+categorical_ordinal,categorical,categorical,3
+continuous_amount_numeric,amount_value,numeric,447
+continuous_stat_numeric,stat_delta,numeric,115
+cyclical_time,cyclical_time,cyclical,3
+date_duration_numeric,date_duration,numeric,91
+discrete_count_numeric,count,numeric,600
+id,id,identifier,1
+overdue_delay_numeric,numeric_other,numeric,144
+property_normalized_numeric,property_score,numeric,43
+ratio_rate_numeric,ratio_rate,numeric,933
+score_index_numeric,external_score,numeric,3
+target,target,target,1

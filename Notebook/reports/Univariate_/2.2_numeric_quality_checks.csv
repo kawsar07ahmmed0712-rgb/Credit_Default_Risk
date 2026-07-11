@@ -1,0 +1,10 @@
+check,status,detail
+File readable: numeric feature analysis,PASS,/mnt/data/2.2_numeric_feature_analysis.xlsx
+File readable: numeric temporal info,PASS,/mnt/data/2.2_numeric_temporal_info.xlsx
+numeric_final_profile rows match temporal master,PASS,2378 vs 2378
+Duplicate features in numeric_final_profile,PASS,0
+Duplicate features in temporal master,PASS,0
+Feature sets match,PASS,"nf-only 0, nt-only 0"
+Missing numeric family,PASS,0
+Missing feature category,PASS,0
+Temporal priority column exists,PASS,present
