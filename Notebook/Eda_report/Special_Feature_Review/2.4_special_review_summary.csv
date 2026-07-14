@@ -1,0 +1,10 @@
+﻿review_table,row_count,output_role
+technical_role_features,2,special case evidence
+sentinel_value_review,5,special case evidence
+external_score_review,3,special case evidence
+cyclical_time_review,61,special case evidence
+structured_missing_review,1971,special case evidence
+rare_binary_flag_review,93,special case evidence
+special_categorical_label_review,4,special case evidence
+feature_group_redundancy_review,8,special case evidence
+special_feature_watchlist,2147,main watchlist for later steps

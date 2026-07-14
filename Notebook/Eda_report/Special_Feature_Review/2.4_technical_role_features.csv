@@ -1,0 +1,3 @@
+﻿feature,special_case_type,feature_category,reason,recommended_next_action,validation_stage,drop_now
+SK_ID_CURR,technical_identifier,id,"unique row identifier, not a model predictor",exclude_from_model_input,feature_engineering,exclude_from_model_input
+TARGET,target_column,target,"supervised learning label, not an input feature",use_only_for_target_analysis,bivariate_and_modeling,exclude_from_model_input
