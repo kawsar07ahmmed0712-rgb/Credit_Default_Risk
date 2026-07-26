@@ -21,3 +21,23 @@ venv/
 *.joblib
 *.npy
 *.npz
+
+
+# Ignore all untracked files by default
+*
+
+# Allow folder traversal
+!*/
+
+# Keep the root gitignore file
+!/.gitignore
+
+# Allow only the selected project files
+!/Notebook/1.Data_Integration.ipynb
+!/Notebook/2.2multivariate_eda.ipynb
+!/Notebook/2.feature_category_lists.py
+!/Notebook/2.Univariate_EDA.ipynb
+!/Notebook/3.Feature_Engeneering.ipynb
+
+# Ignore Jupyter checkpoints
+**/.ipynb_checkpoints/
