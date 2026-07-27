@@ -38,6 +38,7 @@ venv/
 !/Notebook/2.feature_category_lists.py
 !/Notebook/2.Univariate_EDA.ipynb
 !/Notebook/3.Feature_Engeneering.ipynb
+!/Notebook/4_model_development_and_validation.ipynb
 
 # Ignore Jupyter checkpoints
 **/.ipynb_checkpoints/
